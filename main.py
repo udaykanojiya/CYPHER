@@ -8,7 +8,7 @@ import os
 
 is_speaking = False
 
-genai.configure(api_key="AIzaSyAZ7AteX6P16RkrOEbYOTLB7Du4wRnMU7A")
+genai.configure(api_key="####")
 
 recognizer = sr.Recognizer()
 
